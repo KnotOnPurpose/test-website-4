@@ -1,8 +1,9 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  title: "Jasper Bown"
+  title: "name goes here"
   navbar:
     background: primary
     search: true
