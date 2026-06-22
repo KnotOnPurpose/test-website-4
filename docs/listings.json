@@ -1,0 +1,10 @@
+[
+  {
+    "listing": "/blog.html",
+    "items": [
+      "/blog/index.html",
+      "/blog/welcome.html",
+      "/blog/another post.html"
+    ]
+  }
+]
