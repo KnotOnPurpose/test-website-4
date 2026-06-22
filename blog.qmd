@@ -1,0 +1,14 @@
+---
+title: "blog"
+listing:
+  type: default
+  # fields: [image, date, title, author]
+  contents: "blog/*.qmd"
+  feed: true
+  sort: "date desc"
+  categories: true
+  sort-ui: false
+  filter-ui: false
+page-layout: full
+# site-url: blog
+---
